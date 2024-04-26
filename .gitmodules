@@ -1,0 +1,3 @@
+[submodule "Gotu"]
+	path = Gotu
+	url = https://github.com/EkType/Gotu.git
