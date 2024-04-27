@@ -29717,7 +29717,7 @@ entities:
       pos: -40.5,23.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -13488.478
+      secondsUntilStateChange: -14482.753
       state: Closing
 - proto: hydroponicsTrayAnchored
   entities:
